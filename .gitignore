@@ -1,0 +1,12 @@
+# dependencies
+/backend/node_modules
+/frontend/node_modules
+/tindev/node_modules
+
+# course folders
+/week-8-avancado
+/week-8-frontend
+/week-8-mobile
+
+# misc
+yarn-error.log*
