@@ -24,7 +24,7 @@ export default function Main({ match }) {
     }
 
     loadUsers();
-  }, [match.params.id])
+  }, [match.params.id]) 
 
   async function handleLike(id) {
     await api.post(`/devs/${id}/likes`, null, {
