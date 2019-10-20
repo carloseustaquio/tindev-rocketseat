@@ -16,3 +16,6 @@ App developed during Oministack Week 8, an online bootcamp for beginners in Java
 
 ## Conhecimentos desenvolvidos
   Acompanhei o curso no desenvolvimendo do backend, conexão com banco de dados, e desenvolvimento do front. Por limitações do meu equipamento, não consegui desenvolver o mobile, pois o PC travava constantemente quando eu tentava rodar o emulador android.
+
+### Demo
+![tindev demo](/tindev_demo.gif)
